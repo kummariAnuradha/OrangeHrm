@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T09:42:27 PDT" name="Default suite" finished-at="2024-07-11T09:42:47 PDT" duration-ms="19517">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T09:42:27 PDT" name="Default test" finished-at="2024-07-11T09:42:47 PDT" duration-ms="19517">
+      <class name="com.qa.orangehrm.testcases.PunchInOut">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.orangehrm.testcases.PunchInOut@3e694b3f]" started-at="2024-07-11T09:42:27 PDT" name="setup" finished-at="2024-07-11T09:42:36 PDT" duration-ms="8190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:1, instance:com.qa.orangehrm.testcases.PunchInOut@3e694b3f]" started-at="2024-07-11T09:42:36 PDT" name="loginTest" finished-at="2024-07-11T09:42:38 PDT" duration-ms="2368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="time()[pri:2, instance:com.qa.orangehrm.testcases.PunchInOut@3e694b3f]" started-at="2024-07-11T09:42:38 PDT" name="time" finished-at="2024-07-11T09:42:42 PDT" duration-ms="4506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- time -->
+        <test-method signature="tout()[pri:3, instance:com.qa.orangehrm.testcases.PunchInOut@3e694b3f]" started-at="2024-07-11T09:42:42 PDT" name="tout" finished-at="2024-07-11T09:42:46 PDT" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.orangehrm.testcases.PunchInOut@3e694b3f]" started-at="2024-07-11T09:42:46 PDT" name="teardown" finished-at="2024-07-11T09:42:47 PDT" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.orangehrm.testcases.PunchInOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
